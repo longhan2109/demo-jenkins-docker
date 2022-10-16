@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Jenkins 1
+          Learn Jenkins Test PR events
         </a>
       </header>
     </div>
